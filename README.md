@@ -2,4 +2,7 @@
 This is a simple Discord Chatbot written in Python.
 
 
-[My Website](https://web.tommy31.social/)
+[My Website](https://tommy31.social/)
+
+
+Source comes in a few days
